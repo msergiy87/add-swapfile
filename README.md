@@ -1,5 +1,5 @@
 # add-swapfile
-Create and mount SWAPFILE
+Create and mount SWAPFILE and add value "vm.swappiness=5".
 
 Requirements
 ------------
